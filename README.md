@@ -1,4 +1,4 @@
-### Early Detection of Stroke Risk: A Machine Learning Approach
+# Early Detection of Stroke Risk: A Machine Learning Approach
 
 ## Introduction:
 Stroke is a major cause of death and disability globally. Early detection of individuals at high risk of developing stroke is critical to enable timely interventions and reduce the burden of stroke on the healthcare system. This project proposes a machine learning approach for stroke prediction that leverages a combination of three classifiers - Decision Tree, Random Forest, and XGBoost - to create a robust and accurate prediction model.
